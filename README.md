@@ -1,1 +1,1 @@
-# lungo
+![](img/scheme.png)
